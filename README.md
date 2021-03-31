@@ -70,6 +70,9 @@ For instance, I have tried passing the `username` as the value for the `client_i
 
 ## USEFUL LINKS
 [The Gazette website](https://www.thegazette.co.uk/data)
+
 [The Gazette API Docs on GitHub](https://github.com/TheGazette/DevDocs)
+
 [The requests docs](https://2.python-requests.org/en/master/user/quickstart/#errors-and-exceptions)
+
 [The oauthlib docs](https://requests-oauthlib.readthedocs.io/en/latest/oauth2_workflow.html)
